@@ -93,3 +93,139 @@ font-size: 20px;
 font-weight: 600;
 margin-top: 50px;
    }
+
+   /* why-dev section styles */
+   .why-dev{
+    width: 1140px;
+height: 1393px;
+margin: 0 auto;
+
+border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+margin-top: 70px;
+   }
+   .why-div-content{
+    width: 946px;
+height: 1233px;
+
+margin: 0 auto;
+margin-top: 80px;
+   }
+   .why-div-h4-p{
+    width: 852px;
+height: 113px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+   }
+   .why-div-h4-p h4{
+    margin:0 auto;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+
+   }
+   .why-div-h4-p p{
+    margin:0 auto;
+    margin-left: 30px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+
+   }
+   .do-coding{
+    width: 946px;
+height: 336px;
+padding:20px;
+
+margin : 0 auto;
+display: flex;
+border-radius: 16px;
+background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+   }
+   .do-leftside{
+    width:60%;
+    height: 100%;
+    
+   }
+   .do-leftside h4{
+
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+   }
+   .do-leftside p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+margin-top: 16px;
+margin-bottom: 32px;
+   }
+   .button-styles{
+    width: 171px;
+height: 47px;
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+   }
+   .do-rightside{
+    width:40%;
+    height: 100%;
+    
+   }
+   .do-rightside img{
+
+    width: 259.56px;
+height: 217.01px;
+margin-left: 80px;
+   }
+   
+   .help-people{
+    width: 946px;
+    height: 336px;
+    padding:20px;
+    margin : 0 auto;
+    display: flex;
+    border-radius: 16px;
+background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+
+   }
+   .help-leftside{
+    width:40%;
+    height: 100%;
+    
+   }
+   .help-rightside{
+    width:60%;
+    height: 100%;
+   
+   }
+   .help-rightside h4{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+
+   }
+   .help-rightside p{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+margin-top: 16px;
+margin-bottom: 32px;
+   }
+   .help-leftside img{
+
+    width: 259.56px;
+height: 217.01px;}
+   
