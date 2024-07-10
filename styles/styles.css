@@ -276,6 +276,89 @@ border-radius: 16px;
      margin: 0 auto;
      padding: 32px;
    }
-   
-   
-   
+   /* my-current-target section starts here */
+.my-current-target{
+    width: 1140px;
+height: 460px;
+margin: 0 auto;
+margin-top: 180px;
+
+   }
+   .my-current-target-container{
+    width: 946px;
+height: 113px;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-bottom: 45px;
+   }
+   .my-current-target-container h1{
+
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+   }
+   .my-current-target-container p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+
+
+   }
+   .html-css-js{
+    width: 1140px;
+height: 299px;
+display: flex;
+justify-content: center;
+align-items: center;
+   }
+   .shared-div{
+    width:33.33%;
+    height:100%;
+    margin: 40px;
+   }
+   .shared-div img{
+    width: 56px;
+height: 56px;
+   }
+   .shared-div h4{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+margin-top: 24px;
+margin-bottom: 10px;
+   }
+   .shared-div p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom: 24px;
+
+   }
+   .shared-div a{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+   }
+   .left-side{
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+   }
+   .middle{
+    border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+   }
+   .right-side{
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+   }
