@@ -276,6 +276,9 @@ border-radius: 16px;
      margin: 0 auto;
      padding: 32px;
    }
+   .i-frame iframe {
+   border-radius: 30px;
+   }
    /* my-current-target section starts here */
 .my-current-target{
     width: 1140px;
