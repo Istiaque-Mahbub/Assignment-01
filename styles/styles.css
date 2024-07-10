@@ -372,7 +372,7 @@ background-color: rgba(0, 0, 0, 0.4);
 background-image: url(../assets/handshake.jpg);
 background-size: 100% 100%;
 background-repeat: no-repeat;
-border: 2px solid red;
+
 margin : 0 auto;
 margin-top: 60px;
 background-blend-mode: overlay;
@@ -381,7 +381,7 @@ background-blend-mode: overlay;
     width: 1044px;
 height: 185px;
 margin: 79px auto;
-border: 2px solid yellow;
+
    }
    .i-need{
     width: 730px;
@@ -399,6 +399,7 @@ align-items: center;
 font-family: Azeret Mono;
 font-size: 32px;
 font-weight: 700;
+margin-top: 90px;
 
    }
    .i-need center{
@@ -408,6 +409,7 @@ font-weight: 700;
     font-weight: 400;
 opacity: 0.7;
 margin-top: 16px;
+margin-bottom: 70px;
 
    }
    .input-button{
@@ -417,6 +419,7 @@ margin-top: 16px;
     justify-content: center;
     align-items: center;
     gap: 16px;
+    margin-top: 70px;
    }
    .in-btn
    {
@@ -440,5 +443,40 @@ color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 20px;
 font-weight: 600;
+
    }
-   
+   /* footer section strats here */
+   footer{
+   max-width: 1440px;
+height: 100px;
+margin: 0 auto;
+margin-top: 80px;
+   }
+   .footer-cont{
+    width: 1140px;
+height: 36px;
+margin: 0 auto;
+margin-top: 32px;
+display: flex;
+justify-content: space-between;
+
+   }
+   .left-content{
+    width:80%;
+    height: 23px;
+    display: flex;
+   }
+   .left-content h5{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+   }
+   .right-content{
+    width: 40%;
+    height: 36px;
+    padding-left: 450px;
+   }
+   a{
+    text-decoration: none;
+   }
